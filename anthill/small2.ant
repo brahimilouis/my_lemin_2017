@@ -1,0 +1,25 @@
+34
+##start
+start 23 3
+2 16 7
+#comment
+P1 16 3
+Epi 16 5
+tata 9 3
+toto 1 0
+nantes 4 8
+##end
+end 9 5
+end-Epi
+end-toto
+start-P1
+Epi-P1
+tata-2
+P1-tata
+#another comment
+Epi-2
+2-start
+nantes-toto
+nantes-2
+nantes-Epi
+Epi-tata
